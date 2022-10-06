@@ -7,3 +7,7 @@ Ce jeu a été développé à l'occasion du CTF de septembre 2022. Il a été co
 ## Version 1.0
 
 Ajout du jeu complet.
+
+## Version 1.1
+
+Ajout des barres de vie des boss.
