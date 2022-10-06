@@ -1,7 +1,0 @@
-Remerciements : 
-
--Purple¹²²²¹¹⁹Music (pour un ost d'une zone)
--Kadokawa (RPG Maker MV/ OST/ Assets)
--SumRndmDde (plugins Caméra + HUD)
--YEP (plugin modification du mapping des touches)
--GALV (pour le plugin qui m'a permi de faire un Shoot Them'Up sur RPG Maker)
